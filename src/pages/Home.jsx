@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import icon_Capzi from "../assets/icon_Capzi.png";
-import Certificate from "../assets/Certificate.PNG";
+import Certificate from "../assets/Certificate.png";
 
 export default function Home() {
 const techStack = [
