@@ -12,8 +12,7 @@ import "./App.css";
 
 export default function App() {
   return (
-    <BrowserRouter basename="/KT-PORTFOLIO">
-
+    <BrowserRouter>
       <Navbar />
 
       <Routes>
@@ -24,7 +23,6 @@ export default function App() {
       </Routes>
 
       <Footer />
-
     </BrowserRouter>
   );
 }
